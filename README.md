@@ -75,6 +75,3 @@ Sinta-se à vontade para abrir *issues*, propor melhorias ou enviar *pull reques
 
 ## 📜 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
-
-
-Resultado final do Lovable: https://tech-pathfinder-ai-75.lovable.app
